@@ -1,4 +1,4 @@
-# actor_movie_search
+# google_douban_search
 + 基于google custom search api的google搜索镜像
 + 基于豆瓣 api的简单搜索展示
 
