@@ -2,11 +2,11 @@
 + 基于google custom search api的google搜索镜像
 + 基于豆瓣 api的简单搜索展示
 
-### 部署步骤
-1. 安装flask, redis, requests等
-2. 需要google custom search api的key
-3. python googlemovie.py运行
-4. 本地访问：http://127.0.0.1:5000/
+### 安装指南
+1. flask, redis, requests
+2. google custom search api key
+3. python googlemovie.py
+4. http://127.0.0.1:5000/
 
 ##### douban.py
 基于标签的豆瓣搜索，获取movie.json，方便解析。
