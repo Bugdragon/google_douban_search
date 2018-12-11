@@ -14,7 +14,7 @@
 ##### google custom search api url
 https://www.googleapis.com/customsearch/v1?key=INSERT_YOUR_API_KEY&cx=017576662512468239146:omuauf_lfve&q=lectures
 
-##### 豆瓣 api url
+##### douban api url
 http://api.douban.com/v2/movie/search?tag=tag
 
 ### 网站
